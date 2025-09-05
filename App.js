@@ -19,6 +19,7 @@ export default function app() {
     </SafeAreaView>
   );
 }
+//comentario aleatorio
 function header({ pagina, setpagina }) {
   return (
     <View style={styles.header} >
